@@ -1,0 +1,4 @@
+namespace Add
+{
+    void addStudent();
+}
